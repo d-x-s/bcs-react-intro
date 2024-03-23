@@ -35,8 +35,8 @@ ul {
 
 li {
   background-color: darkslategray;
-  padding: 8px;
-  margin: 5px auto;
   width: 90%;
   max-width: 200px;
+  padding: 8px;
+  margin: 5px auto;
 }
