@@ -4,8 +4,8 @@ The starter code for the BCS Hackathon workshop: Intro to React.
 # How to start?
 1) Fork this directory onto your machine.
 2) Open a text editor, I would suggest Visual Studio Code.
-3) Open your terminal.
-4) Navigate to the directory.
+3) Open the directory from within the text editor (File > Open Folder)
+4) Open your terminal (type "CTRL + `" or go "File > View > Terminal" in Visual Studio Code).
 5) Type "cd my-app".
 6) Type "npm install".
 7) Type "npm start".
