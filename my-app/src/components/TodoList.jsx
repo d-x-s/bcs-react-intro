@@ -1,9 +1,9 @@
 import React from 'react';
 
-function TodoList({ todos }) {
-  return (
+function TodoList({ data }) {
+  return ( 
     <ul>
-      {todos.map((todo, index) => (
+      {data.map((todo, index) => (
         <li key={todo.id}>
           {index + 1}. {todo.text}
         </li>
